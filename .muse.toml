@@ -1,3 +1,0 @@
-build = "gradlew"
-jdk11 = false
-tools = ["infer"]
